@@ -1,2 +1,2 @@
 # HTML_CSS_Project1_Restaurant_page
-HTML and CSS Project
+https://krishnavetthi.github.io/HTML_CSS_Project1_Restaurant_page/
